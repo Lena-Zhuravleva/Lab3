@@ -1,0 +1,11 @@
+C:\Users\STALKER\source\repos\Lab3_2\Lab3_2\obj\Debug\Lab3_2.csproj.AssemblyReference.cache
+C:\Users\STALKER\source\repos\Lab3_2\Lab3_2\obj\Debug\Lab3_2.Form1.resources
+C:\Users\STALKER\source\repos\Lab3_2\Lab3_2\obj\Debug\Lab3_2.Properties.Resources.resources
+C:\Users\STALKER\source\repos\Lab3_2\Lab3_2\obj\Debug\Lab3_2.csproj.GenerateResource.cache
+C:\Users\STALKER\source\repos\Lab3_2\Lab3_2\obj\Debug\Lab3_2.csproj.CoreCompileInputs.cache
+C:\Users\STALKER\source\repos\Lab3_2\Lab3_2\bin\Debug\Lab3_2.exe.config
+C:\Users\STALKER\source\repos\Lab3_2\Lab3_2\bin\Debug\Lab3_2.exe
+C:\Users\STALKER\source\repos\Lab3_2\Lab3_2\bin\Debug\Lab3_2.pdb
+C:\Users\STALKER\source\repos\Lab3_2\Lab3_2\obj\Debug\Lab3_2.exe
+C:\Users\STALKER\source\repos\Lab3_2\Lab3_2\obj\Debug\Lab3_2.pdb
+C:\Users\STALKER\source\repos\Lab3_2\Lab3_2\obj\Debug\Lab3_2.Form2.resources
