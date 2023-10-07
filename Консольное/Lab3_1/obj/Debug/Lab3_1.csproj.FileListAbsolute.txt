@@ -1,0 +1,7 @@
+C:\Users\STALKER\source\repos\Lab3_1\Lab3_1\bin\Debug\Lab3_1.exe.config
+C:\Users\STALKER\source\repos\Lab3_1\Lab3_1\bin\Debug\Lab3_1.exe
+C:\Users\STALKER\source\repos\Lab3_1\Lab3_1\bin\Debug\Lab3_1.pdb
+C:\Users\STALKER\source\repos\Lab3_1\Lab3_1\obj\Debug\Lab3_1.csproj.AssemblyReference.cache
+C:\Users\STALKER\source\repos\Lab3_1\Lab3_1\obj\Debug\Lab3_1.csproj.CoreCompileInputs.cache
+C:\Users\STALKER\source\repos\Lab3_1\Lab3_1\obj\Debug\Lab3_1.exe
+C:\Users\STALKER\source\repos\Lab3_1\Lab3_1\obj\Debug\Lab3_1.pdb
